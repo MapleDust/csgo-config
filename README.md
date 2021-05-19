@@ -11,7 +11,7 @@
 
 - 使用说明
   - 将从`Releases`上下载的`config.cfg`放入`Counter-Strike Global Offensive/csgo/cfg`里
-  - 方法一(推荐)：
+  - 方法一(已失效)：
     - 在steam主界面点`库`找到`Counter-Strike: Global Offensive`右键点击`属性`，在`通用`一栏中找到`启动选项`，在`启动选项`里输入`+exec config`，输入完之后请关闭此窗口，点`开始游戏`即可
   - 方法二：
     - 在`游戏设置`中把`启用开发者控制台`设为`是`
